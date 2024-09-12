@@ -62,8 +62,8 @@
 
 - [🗂️깃허브 저장소 바로가기](https://github.com/BadaHertz52/javascript-lunch/tree/step2)
 - [🌟 미션 배포 페이지 바로가기](https://badahertz52.github.io/javascript-lunch/dist/)
-- [🐋1단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-lunch/pull/110/files)
-- [🌊 2단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-lunch/pull/110/files)
+- [🐋1단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-lunch/pull/110/)
+- [🌊 2단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-lunch/pull/141)
 - [🦭블로그 바로가기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-FE-%EB%A0%88%EB%B2%A81-%EC%A0%90%EC%8B%AC-%EB%AD%90-%EB%A8%B9%EC%A7%80-%ED%9A%8C%EA%B3%A0-liwhowln)
 
 ### <span id="movie">🍿영화 리뷰 미션</span>
