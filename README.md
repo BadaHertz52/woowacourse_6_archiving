@@ -80,7 +80,7 @@ REST API 를 이용하여 영화 목록 조회, 검색 기능을 가지며 네�
 - [🗂️깃허브 저장소 바로가기](https://github.com/BadaHertz52/javascript-movie-review)
 - [🌟 미션 배포 페이지 바로가기](https://badahertz52.github.io/javascript-movie-review/dist/)
 - [🐋1단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-movie-review/pull/103)
-- [🌊 2단계 미션 pr 바로가기](https://github.com/BadaHertz52/javascript-movie-review)
+- [🌊 2단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-movie-review/pull/144)
 - [🦭블로그 바로가기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-FE-%EB%A0%88%EB%B2%A81-%EC%98%81%ED%99%94-%EB%A6%AC%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
 
 ---
