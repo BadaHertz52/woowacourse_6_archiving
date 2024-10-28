@@ -17,6 +17,7 @@
 - 레벨4
   - <a href="#optimaztion">⚡성능 최적화 미션</a>
   - <a href="#a11y-airline">😄웹 접근성 미션</a>
+  - <a href="#ssr">🎀SSR 미션</a>
 ---
 
 ## 레벨1
@@ -77,3 +78,8 @@
 - [🗂️깃허브 저장소 바로가기](https://github.com/BadaHertz52/a11y-airline/tree/main)
 - [🌟 미션 배포 페이지 바로가기](https://badahertz52.github.io/a11y-airline)
 - [🐋미션pr 바로가기](https://github.com/woowacourse/a11y-airline/pull/101)
+
+### <span id="ssr">🎀SSR 미션</span>
+- [🗂️깃허브 저장소 바로가기](https://github.com/BadaHertz52/react-ssr/tree/main)
+- [🐋1단계 미션pr 바로가기](https://github.com/woowacourse/react-ssr/pull/9)
+- [🐳2단계 미션pr 바로가기](https://github.com/woowacourse/react-ssr/pull/45)
