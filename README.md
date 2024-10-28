@@ -77,7 +77,7 @@ REST API 를 이용하여 영화 목록 조회, 검색 기능을 가지며 네�
 - [🗂️깃허브 저장소 바로가기](https://github.com/BadaHertz52/javascript-movie-review)
 - [🌟 미션 배포 페이지 바로가기](https://badahertz52.github.io/javascript-movie-review/dist/)
 - [🐋1단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-movie-review/pull/103)
-- [🌊 2단계 미션 pr 바로가기](https://github.com/BadaHertz52/javascript-movie-review)
+- [🌊 2단계 미션 pr 바로가기](https://github.com/woowacourse/javascript-movie-review/pull/144)
 - [🦭블로그 바로가기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-FE-%EB%A0%88%EB%B2%A81-%EC%98%81%ED%99%94-%EB%A6%AC%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
   
 ## 레벨2
@@ -146,6 +146,18 @@ MSW를 사용해 API 요청을 모킹하고 RTL을 사용해 비동기 작업에
 - 2024.09~ 런칭 시 사용자 피드백 반영한 수정 및 성능 개선
 - 반응형 추가, 비밀번호 토큰 사용, 성능 개선
 - 2024.10 성능 최적화 및 웹 접근성 개선, 모아보기 페이지 기능 추가(차트,형광펜 기능 추가)
+
+### 블로그 
+- [CSS-in-JS 속성 정렬 자동화: Stylelint 설정 및 문제 해결 방법](https://velog.io/@badahertz52/CSS-in-JS-%EC%86%8D%EC%84%B1-%EC%A0%95%EB%A0%AC-%EC%9E%90%EB%8F%99%ED%99%94-Stylelint-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
+- [우테코 6기- 팀프로젝트 회고1 : 첫 만남보다 기획이 더 어려워](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EB%A0%88%EB%B2%A83-%ED%8C%80%EB%B9%8C%EB%94%A91%EC%B0%A8-%EB%8D%B0%EB%AA%A8%EB%8D%B0%EC%9D%B4%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0)
+- [우테코6기 '리뷰미'팀의 작은 실험들](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%946%EA%B8%B0-%EB%A6%AC%EB%B7%B0%EB%AF%B8%ED%8C%80-%EC%9E%91%EC%9D%80-%EC%8B%A4%ED%97%98%EB%93%A4)
+- [Webpack,jest에서 MSW 적용하기](https://velog.io/@badahertz52/webpackjest%EC%97%90%EC%84%9C-MSW-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [AWS CodePipeline으로 CD 구축](https://velog.io/@badahertz52/AWS-CodePipeline%EC%9D%84-%ED%86%B5%ED%95%9C-CD-%EA%B5%AC%EC%B6%95)
+- [리뷰미 프로젝트 기획 및 리뷰미 version 1.0.0 소개](https://blog.review-me.page/blog/release-version-1.0.0)
+- [프론트 엔드의 에러 핸들링 전략](https://blog.review-me.page/blog/fe-error-handleing)
+- [우테코 레벨3 방학- 리팩토링 몰입 후기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A83-%EB%B0%A9%ED%95%99-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%AA%B0%EC%9E%85-%ED%9B%84%EA%B8%B0)
+- [프론트 엔드의 성능 최적화](https://blog.review-me.page/blog/fe-performance-optimization)
+- [웹/모바일에서 형광펜 기능 구현하기](https://velog.io/@badahertz52/%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%97%90%EC%84%9C-%ED%98%95%EA%B4%91%ED%8E%9C-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 ## 레벨4
 ### <span id="optimaztion">⚡성능 최적화 미션</span>
