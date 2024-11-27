@@ -98,6 +98,7 @@ REST API 를 이용하여 영화 목록 조회, 검색 기능을 가지며 네�
 #### 미션 소개
 재사용 가능한 모듈화된 컴포넌트와 커스텀 훅을 개발하고, npm에 배포한다. Storybook, RTL을 활용해 컴포넌트 문서화와 테스트 시나리오를 작성한다.
 * Modal 구현 모습
+  
 <img src="https://raw.githubusercontent.com/BadaHertz52/react-modules/step2/components/reademeImg/modal.gif" alt="모듈화된 모달 컴포넌트" height="400px"  />
 
 #### 미션 관련 아카이빙
